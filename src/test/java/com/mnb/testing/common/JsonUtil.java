@@ -1,4 +1,4 @@
-package com.mnb.testing.util;
+package com.mnb.testing.common;
 
 import org.json.JSONObject;
 import org.json.JSONTokener;
